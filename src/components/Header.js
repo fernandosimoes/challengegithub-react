@@ -6,11 +6,12 @@ const Header = () => {
         <div className="hero-body">
             <div className="container">
                 <h1 className="title">
-                    Desafio Github
+                    CHallenge Github
                 </h1>
                 <h2 className="subtitle">
-                    Desafio proposto: Listar open projects de um usuario git
+                    Proposal Challenge: List open projects from an user git. When click in a repository needs list last 20 commits from this repo.
                 </h2>
+                <h5 className="title is-7">By default this system is loading the repositories from reactjs</h5>
             </div>
         </div>
     </section>
