@@ -23,11 +23,11 @@ Feel free to choose if you are going to use the Rest API or the GraphQL API, and
 ```
 
 ## Bonus Tasks
-- Use some modern css solution (CSS Modules, Styled-components, etc); [ x ] 
-- Endless scrolling for the commits page; [ ] 
+- Use some modern css solution (CSS Modules, Styled-components, etc); [x] 
+- Endless scrolling for the commits page;[x]
 - Make it possible to change the order the repositories are shown (By stars, name, etc) [x];
-- Component Library (Storybook.js, Styleguidist, etc);[ ] started but not finished
-- Server side rendering.[ ] 
+- Component Library (Storybook.js, Styleguidist, etc);
+- Server side rendering.
 
 # Solution
 - Use `reactjs`, you can start with a simple `create-react-app` structure and work from there;
