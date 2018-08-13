@@ -46,7 +46,7 @@ class TitleUser extends Component {
                     }
 
                     {this.state.changeUser &&
-                        <form className="is-horizontal" onSubmit={(e) => this.submitUser(e)}>
+                    <form className="is-horizontal" onSubmit={(e) => this.submitUser(e)}>
                         <div className="field is-horizontal margin--left">
                             <div className="control">
                                 <input className="input" type="text" placeholder="Git User Name" onChange={(e) => this.onChange(e)} />

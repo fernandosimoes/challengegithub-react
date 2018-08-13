@@ -5709,6 +5709,10 @@ private@^0.1.6, private@^0.1.7, private@^0.1.8:
   version "0.1.8"
   resolved "https://registry.yarnpkg.com/private/-/private-0.1.8.tgz#2381edb3689f7a53d653190060fcf822d2f368ff"
 
+process-env@^1.1.0:
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/process-env/-/process-env-1.1.0.tgz#c810f5ae72cd9a9b20b42553ccf30957ea4d739e"
+
 process-nextick-args@~2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/process-nextick-args/-/process-nextick-args-2.0.0.tgz#a37d732f4271b4ab1ad070d35508e8290788ffaa"
