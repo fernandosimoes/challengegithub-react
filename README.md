@@ -1,7 +1,10 @@
 To run this project just execute the following commands:
 
-1. `yarn` || `npm install`
-2. `yarn start` || `npm run start`
+1. `yarn` or `npm install`
+2. `yarn start` or `npm run start`
+
+if the credentials give problem, follow the intructions in the application  =)
+
 
 ## What is expected
 An app that connect to the Github API, and list all public repositories from an user, and the last commits for the repositories. [ x ] 
