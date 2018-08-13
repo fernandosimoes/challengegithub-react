@@ -1,7 +1,7 @@
 To run this project just execute the following commands:
-
-1. `yarn` or `npm install`
-2. `yarn start` or `npm run start`
+0. clone or download him.
+1. `yarn` or `npm install`.
+2. `yarn start` or `npm run start`.
 
 if the credentials give problem, follow the intructions in the application  =)
 
